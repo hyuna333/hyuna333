@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### :sunglasses: Who am I?
 ---
 안녕하세요!
-많이 배우고, 함께 성정하고 싶은 개발자입니다
+많이 배우고, 함께 성장하고 싶은 개발자입니다
 
 
 ### ✨ Tech Stack
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff)
 
 
-### :wrench: Tools
+### Tools
 ---
 ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/NOTION-%23000000?style=for-the-badge&logo=notion&logoColor=%23ffffff)
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=%23ffffff)
 
 
-### :musical_note: Plus
+### Plus
