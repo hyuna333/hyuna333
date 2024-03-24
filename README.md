@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <h3>Hi, I'm Hyuna 👋😊</h3>
+  <h2>Hi, I'm Hyuna 👋😊</h2>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=venom&theme=redical&text=Welcome&animation=blinking&height=200" />  
   <br />
 
-  <h3>😎 Who am I?</h3>
+  <h2>😎 Who am I?</h2>
 
   <p>안녕하세요!</p>
   <p>많이 배우고, <span style="font-weight:bold">"함께"</span> 성장하고 싶은 개발자 김현아입니다! </p>
   <p>MBTI : INFP</p>
 
-  <h3>✨ Tech Stack ✨</h3>
+  <h2>✨ Tech Stack ✨</h2>
 
   <img src="https://img.shields.io/badge/REACT-%23000000?style=for-the-badge&logo=REACT&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000000" />
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff" />
 
 
-  <h3>🔧 Tools 🔧</h3> 
+  <h2>🔧 Tools 🔧</h2> 
   <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/NOTION-%23000000?style=for-the-badge&logo=notion&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/SLCAK-%234A154B?style=for-the-badge&logo=slack&logoColor=%23ffffff" />
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=%23ffffff" />
 
 
-  <h3>💖 Projects 💖</h3>
+  <h2>💖 Projects 💖</h2>
 
 
   <span onclick="location.href='https://github.com/TEAM-DGRR'" style="cursor:pointer">
