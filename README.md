@@ -22,13 +22,11 @@ Here are some ideas to get you started:
   <br />
 
   <h1>😎 Who am I?</h1>
-  <hr />
 
   안녕하세요!
   많이 배우고, "함께" 성장하고 싶은 개발자입니다
 
   <h1>✨ Tech Stack ✨</h1>
-  <hr />
 
   <img src="https://img.shields.io/badge/REACT-%23000000?style=for-the-badge&logo=REACT&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000000" />
@@ -39,7 +37,6 @@ Here are some ideas to get you started:
 
 
   <h1>🔧 Tools 🔧</h1> 
-  <hr />
   <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/NOTION-%23000000?style=for-the-badge&logo=notion&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/SLCAK-%234A154B?style=for-the-badge&logo=slack&logoColor=%23ffffff" />
@@ -48,7 +45,6 @@ Here are some ideas to get you started:
 
 
   <h1>💖 Projects 💖</h1>
-  <hr />
 
 
   <span onclick="location.href='https://github.com/TEAM-DGRR'" style="cursor:pointer">
