@@ -42,16 +42,19 @@
     <img src="https://github.com/hyuna333/TIL/assets/122499274/58e33c2e-8d03-4ab8-8bd4-48c28901217b" width="100" />
     <a href="https://github.com/onebean-hyeonbean-coffeebean/coffeeing">커피 캡슐 & 원두 추천 서비스</a>
   </span>
+  <br />
 
   <span onclick="location.href='https://github.com/PDA4-Mini-project'" style="cursor:pointer">
     <img src="https://github.com/user-attachments/assets/570d5706-c61d-461d-ac7d-f4bb5c735838" width="100" />
     <a href="https://github.com/PDA4-Mini-project">1:1 재능기부 화상 서비스</a>
   </span>
+  <br />
 
   <span onclick="location.href='https://github.com/PDA-4-1/StockForest'" style="cursor:pointer">
     <img src="https://github.com/user-attachments/assets/9aad1123-98a0-4b7f-a574-1fddf6d8cfbd" width="100" />
     <a href="https://github.com/PDA-4-1/StockForest">주린이들을 위한 모의 주식 게임 서비스</a>
-  </span>
+  </span>  
+  <br />
 
   <span onclick="location.href='https://github.com/StockmonGo">
     <img src="https://github.com/user-attachments/assets/8e40fed8-e936-47de-8976-24496248fcec" width="100" />
